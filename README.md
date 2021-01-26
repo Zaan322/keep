@@ -19,25 +19,14 @@ Contactame :
 ---
 
 
-Wanna Hide Me ?
+Quieres contactarme?
 
-Contact : nazwa.salsa67.bila@gmail.com
-
-## Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
-Donate Me On:
-
-* [`Saweria`](https://saweria.co/nazwas)
-* [`Trakteer`](https://trakteer.id/nazwas)
-
-<img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/donate.png" width="148">
-
----
-<img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/kawaii.gif">
+Contact gmail : Dscg2106@gmail.com
 
 ## Stats
 
-<a href="https://github.com/NazwaS"><img src="https://github-readme-stats.vercel.app/api?username=NazwaS&show_icons=true&theme=radical"></a>
-<a href="https://github.com/NazwaS"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazwaS&theme=highcontrast&layout=compact"></a>
+<a href="https://github.com/Santy-Gz"><img src="https://github-readme-stats.vercel.app/api?username=Santy-Gz&show_icons=true&theme=radical"></a>
+<a href="https://github.com/Santy-Gz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santy-GzS&theme=highcontrast&layout=compact"></a>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
