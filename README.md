@@ -5,7 +5,7 @@ Contactame :
 
 <a href="https://web.facebook.com/profile.php?id=100060138295881"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/santy_gz_404"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
  &nbsp;&nbsp; 
-<a href="https://twitter.com/NazwaSa72637177"><img src="https://www.flaticon.com/free-icon/whatsapp_1383269" alt="alt text" width="20" height="20"></a>
+<a href="https://twitter.com/NazwaSa72637177"><img src="https://www.flaticon.com/svg/vstatic/svg/1383/1383269.svg?token=exp=1611624766~hmac=17a51a2ce160e934bbb740d7d920f9d9" alt="alt text" width="20" height="20"></a>
 
 
 
