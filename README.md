@@ -1,5 +1,5 @@
 ### Hola buenas, Soy Santy_Gz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif" width=130 height="120" align="left">
+<img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif" width=150 height="130" align="left">
 <center>
 Contactame :
 
