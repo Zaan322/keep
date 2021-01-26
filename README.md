@@ -1,5 +1,5 @@
 ### Hola buenas, Soy Santy_Gz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif" width=120 height="120" align="left">
+<img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif" width=130 height="120" align="left">
 <center>
 Contactame :
 
@@ -14,11 +14,10 @@ Contactame :
 
 ---
 
-<img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif" alt="Santy_Gz">
-
----
-
 ## Estado
 
 <a href="https://github.com/Santy-Gz"><img src="https://github-readme-stats.vercel.app/api?username=Santy-Gz&show_icons=true&theme=radical"></a>
 <a href="https://github.com/Santy-Gz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santy-Gz&theme=highcontrast&layout=compact"></a>
+
+---
+
