@@ -5,7 +5,7 @@ Contactame :
 
 <a href="https://web.facebook.com/profile.php?id=100060138295881"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/santy_gz_404"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
  &nbsp;&nbsp; 
-<a href="https://twitter.com/NazwaSa72637177"><img src="https://www.flaticon.com/svg/static/icons/svg/124/124021.svg" alt="alt text" width="20" height="20"></a>
+<a href="https://twitter.com/NazwaSa72637177"><img src="https://www.flaticon.com/free-icon/whatsapp_1383269?term=whatsapp%20logo&related_id=1383269" alt="alt text" width="20" height="20"></a>
 
 
 
@@ -14,7 +14,7 @@ Contactame :
 
 ---
 
-## Estado
+## Estadisticas
 
 <a href="https://github.com/Santy-Gz"><img src="https://github-readme-stats.vercel.app/api?username=Santy-Gz&show_icons=true&theme=radical"></a>
 <a href="https://github.com/Santy-Gz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santy-Gz&theme=highcontrast&layout=compact"></a>
