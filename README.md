@@ -25,5 +25,5 @@ ___
 ### About Me ⚠️
 ___
 
-![Santy_Gz github stats](https://github-readme-stats.vercel.app/api?username=Santy_Gz&layout=compact&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santy_Gz&count_private=true&show_icons=true&theme=tokyonight)
+![Santy_Gz github stats](https://github-readme-stats.vercel.app/api?username=Santy-Gz&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santy-Gz&count_private=true&show_icons=true&theme=tokyonight)
