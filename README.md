@@ -1,7 +1,3 @@
-[![XD](https://github.com/TobyG74/TobyG74/blob/main/Background.jpg)](https://github.com/TobyG74m)
-
-___
-
 <p align='center'><a href="https://instagram.com/santy_gz_404"><img height="200" src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif"></a>&nbsp;&nbsp;</p>
 
 <h1  align='center'> Hola Buenas 👋 </h1>
