@@ -1,23 +1,29 @@
-### Hola buenas, Soy Santy_Gz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif" width=150 height="130" align="left">
-<center>
-Contactame :
+[![LOLI PROTECTOR](https://github.com/TobyG74/TobyG74/blob/main/Background.jpg)](https://github.com/TobyG74m)
 
-<a href="https://www.facebook.com/santigonzalez11"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/santy_gz_404"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
- &nbsp;&nbsp; 
-<a href="https://wa.me/573108103500"><img src="https://www.flaticon.com/svg/vstatic/svg/1383/1383269.svg?token=exp=1611624766~hmac=17a51a2ce160e934bbb740d7d920f9d9" alt="alt text" width="20" height="20"></a>
+___
 
+<p align='center'><a href="https://instagram.com/santy_gz_404"><img height="200" src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif"></a>&nbsp;&nbsp;</p>
 
+<h1  align='center'> Hola Buenas 👋 </h1>
 
+<p align='center'>  Soy Santy_Gz! :sunglasses: </p>
 
-&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
+<p align='center'>
+   <a href="https://twitter.com/#"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/santy_gz_404"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/santigonzalez11"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
+</P>
 
----
+:page_with_curl: Estoy aprendiendo:
+- Python
+- bash
+- Javascript
 
-## Estadisticas
+:star: Mi mas reciente Proyecto:
+- [Phish_Gz](https://github.com/TobyG74/ElainaBOT)
 
-<a href="https://github.com/Santy-Gz"><img src="https://github-readme-stats.vercel.app/api?username=Santy-Gz&show_icons=true&theme=radical"></a>
-<a href="https://github.com/Santy-Gz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santy-Gz&theme=highcontrast&layout=compact"></a>
+### About Me ⚠️
+___
 
----
-
+![Santy_Gz github stats](https://github-readme-stats.vercel.app/api?username=Santy_Gz&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santy_Gz&count_private=true&show_icons=true&theme=tokyonight)
