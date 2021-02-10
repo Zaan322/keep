@@ -5,7 +5,7 @@
 <p align='center'>  Soy Santy_Gz! :sunglasses: </p>
 
 <p align='center'>
-   <a href="https://twitter.com/#"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://twitter.com/SantyGz"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/santy_gz_404"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
    <a href="https://www.facebook.com/santigonzalez11"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
 </P>
