@@ -22,7 +22,7 @@ ___
 :star: Mi mas reciente Proyecto:
 - [Phish_Gz](https://github.com/TobyG74/ElainaBOT)
 
-### About Me ⚠️
+### Sobre MI ⚠️
 ___
 
 ![Santy_Gz github stats](https://github-readme-stats.vercel.app/api?username=Santy-Gz&layout=compact&theme=tokyonight)
